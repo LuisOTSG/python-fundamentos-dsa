@@ -14,9 +14,9 @@ Este é o repositório usado para documentar o aprendizado conquistado no curso 
 ### (4) Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados
 [Cap04-Notebooks-Estudo](https://github.com/LuisOTSG/python-fundamentos-dsa/tree/main/Cap04/Notebooks)
 [Cap04-Exercicios](https://github.com/LuisOTSG/python-fundamentos-dsa/tree/main/Cap04/Notebooks)
-[Lab02-Calculadora](https://github.com/LuisOTSG/python-fundamentos-dsa/blob/main/Cap05/Lab2/calculadora.py)
 ### (5) Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
 [Cap05-Notebooks-Estudo](https://github.com/LuisOTSG/python-fundamentos-dsa/tree/main/Cap05/Notebooks)
+[Lab02-Calculadora](https://github.com/LuisOTSG/python-fundamentos-dsa/blob/main/Cap05/Lab2/calculadora.py)
 ### (6) Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 
 ### (7) Projeto 1 e Avaliação 1
